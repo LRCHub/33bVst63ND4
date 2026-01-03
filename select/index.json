@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Cafe Latte",
+  "base_artist": "幾田りら",
+  "createdAt": "2026-01-03T17:26:27.728367Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Believe Anymore - Ivan & Collins Cafe Latte Mix",
+      "artist": "ICEHOUSE",
+      "has_synced": false,
+      "path": "select/01_Don't_Believe_Anymore_-_Ivan_&_Collins_Cafe_Latte_Mix_ICEHOUSE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Café Latte (Remix)",
+      "artist": "Geeks",
+      "has_synced": false,
+      "path": "select/02_Café_Latte_(Remix)_Geeks.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Believe Anymore [Ivan & Collins Café Latte Mix]",
+      "artist": "Icehouse",
+      "has_synced": false,
+      "path": "select/03_Don't_Believe_Anymore_[Ivan_&_Collins_Café_Latte_Mix]_Icehouse.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Believe Anymore - Ivan & Colins Cafe Latte Remix",
+      "artist": "ICEHOUSE",
+      "has_synced": false,
+      "path": "select/04_Don't_Believe_Anymore_-_Ivan_&_Colins_Cafe_Latte_Remix_ICEHOUSE.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Beleive Anymore [Ivan & Colin's Café Latte Mix]",
+      "artist": "Icehouse",
+      "has_synced": false,
+      "path": "select/05_Don't_Beleive_Anymore_[Ivan_&_Colin's_Café_Latte_Mix]_Icehouse.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don’t Believe Anymore (Ivan & Collin’s Cafe Latte mix)",
+      "artist": "Icehouse",
+      "has_synced": false,
+      "path": "select/06_Don’t_Believe_Anymore_(Ivan_&_Collin’s_Cafe_Latte_mix)_Icehouse.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chasing Pavements - Live at Hotel Cafe",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/07_Chasing_Pavements_-_Live_at_Hotel_Cafe_Adele.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crazy For You - Live at Hotel Cafe",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/08_Crazy_For_You_-_Live_at_Hotel_Cafe_Adele.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Daydreamer - Live at Hotel Cafe",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/09_Daydreamer_-_Live_at_Hotel_Cafe_Adele.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hometown Glory - Live at Hotel Cafe",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/10_Hometown_Glory_-_Live_at_Hotel_Cafe_Adele.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Make You Feel My Love - Live at Hotel Cafe",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/11_Make_You_Feel_My_Love_-_Live_at_Hotel_Cafe_Adele.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Melt My Heart To Stone - Live at Hotel Cafe",
+      "artist": "Adele",
+      "has_synced": false,
+      "path": "select/12_Melt_My_Heart_To_Stone_-_Live_at_Hotel_Cafe_Adele.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Same - Live at Hotel Cafe",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/13_My_Same_-_Live_at_Hotel_Cafe_Adele.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Right As Rain - Live at Hotel Cafe",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/14_Right_As_Rain_-_Live_at_Hotel_Cafe_Adele.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Caliente Café",
+      "artist": "Virus",
+      "has_synced": true,
+      "path": "select/15_Caliente_Café_Virus.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "That's It, I Quit, I'm Movin' On - Live at Hotel Cafe",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/16_That's_It,_I_Quit,_I'm_Movin'_On_-_Live_at_Hotel_Cafe_Adele.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Driftwood (Live At The Link Café / 1999)",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/17_Driftwood_(Live_At_The_Link_Café___1999)_Travis.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Driftwood (Live At The Link Café \u0000 1999)",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/18_Driftwood_(Live_At_The_Link_Café_\u0000_1999)_Travis.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Driftwood (live at the Link Café, Glasgow)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/19_Driftwood_(live_at_the_Link_Café,_Glasgow)_Travis.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Slide Show (Live At The Link Café / 1999)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/20_Slide_Show_(Live_At_The_Link_Café___1999)_Travis.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Slide Show (Live At The Link Café \u0000 1999)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/21_Slide_Show_(Live_At_The_Link_Café_\u0000_1999)_Travis.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Lou's Cafe",
+      "artist": "Lou Bega",
+      "has_synced": true,
+      "path": "select/22_Lou's_Cafe_Lou_Bega.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Mario's Cafe",
+      "artist": "Saint Etienne",
+      "has_synced": true,
+      "path": "select/23_Mario's_Cafe_Saint_Etienne.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cafe Latte",
+      "artist": "幾田りら",
+      "has_synced": false,
+      "path": "select/pl_01_Cafe_Latte_幾田りら.txt"
+    }
+  ]
+}
